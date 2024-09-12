@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="docs/example.jpeg" alt="image qr code cli" width="400"/>
+  <img src="docs/example.jpeg" alt="logo" width="400"/>
   <br>
   Cloudwatch GenAI Insights CLI
   <br>
@@ -57,6 +57,11 @@ The CLI provides one main commands:
    Replace `<log-group-arn>` with the ARN of your CloudWatch log group.
 
 ### Example
+
+<h1 align="center">
+  <img src="docs/image.png" alt="example" width="400"/>
+  <br>
+</h1>
 
 ```
 cwai inspect arn:aws:logs:us-west-2:123456789012:log-group:/aws/lambda/my-function
