@@ -59,7 +59,7 @@ The CLI provides one main commands:
 ### Example
 
 <h1 align="center">
-  <img src="docs/image.png" alt="example" width="400"/>
+  <img src="docs/image.png" alt="example" width="600"/>
   <br>
 </h1>
 
